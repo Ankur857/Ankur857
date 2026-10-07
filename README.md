@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 💫 About Me<br><br>- 💻 I'm a B.Tech IT student passionate about **Full-Stack Development**<br>- 🤖 I'm currently exploring **Machine Learning & AI**<br>- 🧠 I'm strengthening my **Data Structures & Algorithms**<br>- 🚀 I enjoy building **real-world projects and hackathon solutions**<br>- 🌱 I'm currently learning **Python, NumPy, Pandas & Machine Learning**<br>- 🔨 I work with **React, Next.js, Node.js, FastAPI & PostgreSQL**<br>- 🤝 I'm open to **internships, collaborations & interesting projects**<br>- ⚡ Fun fact: I enjoy turning ideas into working products!
 
 
