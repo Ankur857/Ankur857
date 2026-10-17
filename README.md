@@ -10,6 +10,7 @@
 
 ## 💫 About
 
+- 🎯 Focus: **full-stack app development & agentic AI**
 - 💻 B.Tech Information Technology student at Krishna Institute of Technology, Ghaziabad (2024–2028)
 - 🤖 Worked as an AI & Software Developer at **ZeniaMobile** (April–June 2026)
 - 🧠 At ZeniaMobile I worked on AI research, document extraction and validation features, and the company website in Next.js
@@ -22,15 +23,16 @@
 ## 🏢 Experience
 
 **AI & Software Developer, ZeniaMobile** · April–June 2026
-AI research, document extraction and validation features, and the company website (Next.js). Also built the Pharma CRM with a LangGraph agent for ZeniaMobile.
+AI research, document extraction and validation features, and the company website (Next.js).
 
 ## 🚀 Featured Projects
 
 | Project | What it is |
 | --- | --- |
-| **Pharma CRM** | Full-stack pharma CRM for ZeniaMobile with a LangGraph agent |
-| **LabourBaba** | Node/Express/TypeScript backend on AWS with geospatial features |
-| **PetCare** | React Native app, UI/UX overhaul |
+| **LabourBaba** | Scalable Node.js backend with geospatial search, PostgreSQL, and AWS deployment |
+| **PetCare** | Cross-platform pet care app with a polished, intuitive mobile experience |
+| **Company Brain** | Enterprise AI hackathon demo featuring role-based access control and secure data access |
+| **CampusBite** | Campus food pre-ordering platform designed to reduce canteen queues and waiting time |
 
 ## 💻 Tech Stack
 
