@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark(1).svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light(1).svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Ankur: AI and Software Developer, B.Tech IT student. Python, JavaScript, React Native, Next.js, FastAPI, LangChain, LangGraph.">
 </picture>
 
